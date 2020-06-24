@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 aaaaaaaaaaaaaaaaa
 
+### Copyright
+
+201Git.Training.
