@@ -24,7 +24,11 @@ aaaaaaaaaaaaaaaaa
 
 ### Copyright
 
+<<<<<<< Updated upstream
 201Git.Training. hlkasdjfoaihdsoiand
+=======
+201Git.Training.  The Lllam corporation.
+>>>>>>> Stashed changes
 
 bbbbbbbb
 bbbbbbbb
